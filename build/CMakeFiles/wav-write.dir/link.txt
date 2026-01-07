@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/wav-write.dir/wav-write.cpp.o -o wav-write 

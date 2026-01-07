@@ -2,6 +2,7 @@
 
 #include <cmath>  // sin, cos, log
 #include <vector>
+#include <cstdio>
 
 const double SAMPLE_RATE = 48000;
 const double pi =

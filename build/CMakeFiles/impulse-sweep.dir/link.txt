@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/impulse-sweep.dir/impulse-sweep.cpp.o -o impulse-sweep 

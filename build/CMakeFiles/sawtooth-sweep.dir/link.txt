@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -rdynamic CMakeFiles/sawtooth-sweep.dir/sawtooth-sweep.cpp.o -o sawtooth-sweep 
